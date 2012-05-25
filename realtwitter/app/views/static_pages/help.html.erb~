@@ -1,0 +1,13 @@
+<% provide(:title, 'Help') %>
+<!DOCTYPE html>
+<html>
+  <head>
+	  <title>Mo's Real Twitter App | <%= yield(:title) %></title>
+  </head>
+  <body>
+    <h1>Help</h1>
+    <p>Get help on using Mo's version of Twitter by checking out 
+       the Twitter help page <a href="http://support.twitter.com">here</a>
+    </p>
+  </body>
+</html>
