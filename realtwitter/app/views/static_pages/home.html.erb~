@@ -1,7 +1,7 @@
 <div class="center hero-unit">
   <h1>Welcome to Mo's Twitter App</h1>
   <h2>
-    This is Mohamed Ahmad's Ruby on Rails application based on  
+    To see how much better my version is, compare to the original 
     <a href="http://www.twitter.com/">Twitter</a>
   </h2>
   <%= link_to "Sign up now!", signup_path, class: "btn btn-large btn-primary" %>
